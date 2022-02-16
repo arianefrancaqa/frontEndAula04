@@ -12,7 +12,7 @@ Página Receita de Torta de Limão
 
 #### O resultado deve ser esse ⬇️:
 
+![image](https://user-images.githubusercontent.com/91291221/154370815-667e4876-8540-4d27-be50-3da037ef56af.png)
 
-![image](https://user-images.githubusercontent.com/91291221/154370094-b5384d7e-4dc8-4b04-a4b4-dc91e7b63828.png)
 
 
